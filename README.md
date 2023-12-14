@@ -2,8 +2,7 @@
 I'm a versatile developer proficient in several programming languages, frameworks, and tools, always looking to learn new things. Here's what I generally use:
 
 ### IDEs
-[![JetBrains](https://img.shields.io/badge/JetBrains-black?style=for-the-badge&logo=JetBrains&logoColor=white)](https://www.jetbrains.com/)
-<!---[![CLion](https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=CLion&logoColor=white)](https://www.jetbrains.com/clion/)
+<!--[![CLion](https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=CLion&logoColor=white)](https://www.jetbrains.com/clion/)
 [![DataGrip](https://img.shields.io/badge/DataGrip-black?style=for-the-badge&logo=DataGrip&logoColor=white)](https://www.jetbrains.com/datagrip/)
 [![DataSpell](https://img.shields.io/badge/DataSpell-black?style=for-the-badge&logo=DataSpell&logoColor=white)](https://www.jetbrains.com/dataspell/)
 [![GoLand](https://img.shields.io/badge/GoLand-black?style=for-the-badge&logo=GoLand&logoColor=white)](https://www.jetbrains.com/go/)
@@ -13,7 +12,8 @@ I'm a versatile developer proficient in several programming languages, framework
 [![Rider](https://img.shields.io/badge/Rider-black?style=for-the-badge&logo=Rider&logoColor=white)](https://www.jetbrains.com/rider/)
 [![RubyMine](https://img.shields.io/badge/RubyMine-black?style=for-the-badge&logo=RubyMine&logoColor=white)](https://www.jetbrains.com/ruby/)
 [![RustRover](https://img.shields.io/badge/RustRover-black?style=for-the-badge&logo=RustRover&logoColor=white)](https://www.jetbrains.com/rust/)
-[![WebStorm](https://img.shields.io/badge/WebStorm-black?style=for-the-badge&logo=WebStorm&logoColor=white)](https://www.jetbrains.com/webstorm/)--->
+[![WebStorm](https://img.shields.io/badge/WebStorm-black?style=for-the-badge&logo=WebStorm&logoColor=white)](https://www.jetbrains.com/webstorm/)-->
+[![JetBrains](https://img.shields.io/badge/JetBrains-black?style=for-the-badge&logo=JetBrains&logoColor=white)](https://www.jetbrains.com/)
 [![Visual Studio](https://img.shields.io/badge/Visual_Studio-black?style=for-the-badge&logo=VisualStudio&logoColor=white)](https://visualstudio.microsoft.com/)
 [![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-black?style=for-the-badge&logo=VisualStudioCode&logoColor=white)](https://code.visualstudio.com/)
 

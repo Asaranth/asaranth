@@ -2,17 +2,7 @@
 I'm a versatile developer proficient in several programming languages, frameworks, and tools, always looking to learn new things. Here's what I generally use:
 
 ### IDEs
-[![CLion](https://img.shields.io/badge/CLion-0c4a6e?style=for-the-badge&logo=CLion&logoColor=white&labelColor=082f49)](https://www.jetbrains.com/clion/)
-[![DataGrip](https://img.shields.io/badge/DataGrip-0c4a6e?style=for-the-badge&logo=DataGrip&logoColor=white&labelColor=082f49)](https://www.jetbrains.com/datagrip/)
-[![DataSpell](https://img.shields.io/badge/DataSpell-0c4a6e?style=for-the-badge&logo=JetBrains&logoColor=white&labelColor=082f49)](https://www.jetbrains.com/dataspell/)
-[![GoLand](https://img.shields.io/badge/GoLand-0c4a6e?style=for-the-badge&logo=GoLand&logoColor=white&labelColor=082f49)](https://www.jetbrains.com/go/)
-[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-0c4a6e?style=for-the-badge&logo=IntelliJ-IDEA&logoColor=white&labelColor=082f49)](https://www.jetbrains.com/idea/)
-[![PhpStorm](https://img.shields.io/badge/PhpStorm-0c4a6e?style=for-the-badge&logo=PhpStorm&logoColor=white&labelColor=082f49)](https://www.jetbrains.com/phpstrom/)
-[![PyCharm](https://img.shields.io/badge/PyCharm-0c4a6e?style=for-the-badge&logo=PyCharm&logoColor=white&labelColor=082f49)](https://www.jetbrains.com/pycharm/)
-[![Rider](https://img.shields.io/badge/Rider-0c4a6e?style=for-the-badge&logo=Rider&logoColor=white&labelColor=082f49)](https://www.jetbrains.com/rider/)
-[![RubyMine](https://img.shields.io/badge/RubyMine-0c4a6e?style=for-the-badge&logo=JetBrains&logoColor=white&labelColor=082f49)](https://www.jetbrains.com/ruby/)
-[![RustRover](https://img.shields.io/badge/RustRover-0c4a6e?style=for-the-badge&logo=JetBrains&logoColor=white&labelColor=082f49)](https://www.jetbrains.com/rust/)
-[![WebStorm](https://img.shields.io/badge/WebStorm-0c4a6e?style=for-the-badge&logo=WebStorm&logoColor=white&labelColor=082f49)](https://www.jetbrains.com/webstorm/)
+[![RubyMine](https://img.shields.io/badge/JetBrains_Suite-0c4a6e?style=for-the-badge&logo=JetBrains&logoColor=white&labelColor=082f49)](https://www.jetbrains.com/)
 [![Visual Studio](https://img.shields.io/badge/Visual_Studio-0c4a6e?style=for-the-badge&logo=VisualStudio&logoColor=white&labelColor=082f49)](https://visualstudio.microsoft.com/)
 [![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0c4a6e?style=for-the-badge&logo=VisualStudioCode&logoColor=white&labelColor=082f49)](https://code.visualstudio.com/)
 

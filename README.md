@@ -1,27 +1,35 @@
-# Hey 👋 What's up?
-I'm a versatile developer proficient in several programming languages, frameworks, and tools, always looking to learn new things. Here's what I generally use:
+## Hello World! 👋
+I am a passionate developer with a broad set of skills!
 
-### IDEs
-[![RubyMine](https://img.shields.io/badge/JetBrains_Suite-0c4a6e?style=for-the-badge&logo=JetBrains&logoColor=white&labelColor=082f49)](https://www.jetbrains.com/)
-[![Visual Studio](https://img.shields.io/badge/Visual_Studio-0c4a6e?style=for-the-badge&logo=VisualStudio&logoColor=white&labelColor=082f49)](https://visualstudio.microsoft.com/)
-[![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0c4a6e?style=for-the-badge&logo=VisualStudioCode&logoColor=white&labelColor=082f49)](https://code.visualstudio.com/)
+## 🔧 Tools:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/clion/clion-original.svg" alt="CLion" width=40 height=40 />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/datagrip/datagrip-original.svg" alt="DataGrip" width=40 height=40 />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dataspell/dataspell-original.svg" alt="DataSpell" width=40 height=40 />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/goland/goland-original.svg" alt="GoLand" width=40 height=40 />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width=40 height=40 />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/phpstorm/phpstorm-original.svg" alt="PhpStorm" width=40 height=40 />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" alt="PyCharm" width=40 height=40 />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rider/rider-original.svg" alt="Rider" width=40 height=40 />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rubymine/rubymine-original.svg" alt="RubyMine" width=40 height=40 />
+<img src="https://dashboard.snapcraft.io/site_media/appmedia/2023/12/RustRover_icon256.png" alt="RustRover" width=40 height=40 />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webstorm/webstorm-original.svg" alt="WebStorm" width=40 height=40 />
 
-### Languages
-[![C#](https://img.shields.io/badge/CSharp-0c4a6e?style=for-the-badge&logo=CSharp&logoColor=white&labelColor=082f49)](https://learn.microsoft.com/en-us/dotnet/csharp/)
-[![F#](https://img.shields.io/badge/FSharp-0c4a6e?style=for-the-badge&logo=FSharp&logoColor=white&labelColor=082f49)](https://learn.microsoft.com/en-us/dotnet/fsharp/)
-[![Lua](https://img.shields.io/badge/Lua-0c4a6e?style=for-the-badge&logo=Lua&logoColor=white&labelColor=082f49)](https://www.lua.org/docs.html)
-[![JavaScript](https://img.shields.io/badge/JavaScript-0c4a6e?style=for-the-badge&logo=JavaScript&logoColor=white&labelColor=082f49)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![TypeScript](https://img.shields.io/badge/TypeScript-0c4a6e?style=for-the-badge&logo=TypeScript&logoColor=white&labelColor=082f49)](https://www.typescriptlang.org/docs/)
-[![Python](https://img.shields.io/badge/Python-0c4a6e?style=for-the-badge&logo=Python&logoColor=white&labelColor=082f49)](https://docs.python.org/3/)
-[![R](https://img.shields.io/badge/R-0c4a6e?style=for-the-badge&logo=R&logoColor=white&labelColor=082f49)](https://www.r-project.org/other-docs.html)
-[![Dart](https://img.shields.io/badge/Dart-0c4a6e?style=for-the-badge&logo=Dart&logoColor=white&labelColor=082f49)](https://dart.dev/guides)
-[![HTML5](https://img.shields.io/badge/HTML5-0c4a6e?style=for-the-badge&logo=HTML5&logoColor=white&labelColor=082f49)](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
-[![CSS3](https://img.shields.io/badge/CSS3-0c4a6e?style=for-the-badge&logo=CSS3&logoColor=white&labelColor=082f49)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![MySQL](https://img.shields.io/badge/MySQL-0c4a6e?style=for-the-badge&logo=MySQL&logoColor=white&labelColor=082f49)](https://dev.mysql.com/doc/)
+## 💬 Languages:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" width=40 height=40 />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="CSharp" width=40 height=40 />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fsharp/fsharp-original.svg" alt="FSharp" width=40 height=40 />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" width=40 height=40 />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width=40 height=40 />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" alt="Lua" width=40 height=40 />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" width=40 height=40 />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width=40 height=40 />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" alt="R" width=40 height=40 />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" alt="SASS" width=40 height=40 />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" width=40 height=40 />
 
-### Frameworks
-[![.NET](https://img.shields.io/badge/.NET-0c4a6e?style=for-the-badge&logo=.NET&logoColor=white&labelColor=082f49)](https://dotnet.microsoft.com/en-us/)
-[![Angular](https://img.shields.io/badge/Angular-0c4a6e?style=for-the-badge&logo=Angular&logoColor=white&labelColor=082f49)](https://angular.io/)
-[![Svelte](https://img.shields.io/badge/Svelte-0c4a6e?style=for-the-badge&logo=Svelte&logoColor=white&labelColor=082f49)](https://svelte.dev/)
-[![Astro](https://img.shields.io/badge/Astro-0c4a6e?style=for-the-badge&logo=Astro&logoColor=white&labelColor=082f49)](https://astro.build/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0c4a6e?style=for-the-badge&logo=Tailwind-CSS&logoColor=white&labelColor=082f49)](https://tailwindcss.com/)
+## 📚 Frameworks:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" alt="Angular" width=40 height=40 />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original.svg" alt="Astro" width=40 height=40 />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" alt="dotnet" width=40 height=40 />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg" alt="Svelte" width=40 height=40 />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind" width=40 height=40 />

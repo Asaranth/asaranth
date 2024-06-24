@@ -14,7 +14,6 @@ I'm a versatile developer proficient in several programming languages, framework
 [![TypeScript](https://img.shields.io/badge/TypeScript-0c4a6e?style=for-the-badge&logo=TypeScript&logoColor=white&labelColor=082f49)](https://www.typescriptlang.org/docs/)
 [![Python](https://img.shields.io/badge/Python-0c4a6e?style=for-the-badge&logo=Python&logoColor=white&labelColor=082f49)](https://docs.python.org/3/)
 [![R](https://img.shields.io/badge/R-0c4a6e?style=for-the-badge&logo=R&logoColor=white&labelColor=082f49)](https://www.r-project.org/other-docs.html)
-[![Dart](https://img.shields.io/badge/Dart-0c4a6e?style=for-the-badge&logo=Dart&logoColor=white&labelColor=082f49)](https://dart.dev/guides)
 [![HTML5](https://img.shields.io/badge/HTML5-0c4a6e?style=for-the-badge&logo=HTML5&logoColor=white&labelColor=082f49)](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
 [![CSS3](https://img.shields.io/badge/CSS3-0c4a6e?style=for-the-badge&logo=CSS3&logoColor=white&labelColor=082f49)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![MySQL](https://img.shields.io/badge/MySQL-0c4a6e?style=for-the-badge&logo=MySQL&logoColor=white&labelColor=082f49)](https://dev.mysql.com/doc/)

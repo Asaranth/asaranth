@@ -7,7 +7,7 @@ I'm a versatile developer proficient in several programming languages, framework
 [![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0c4a6e?style=for-the-badge&logo=VisualStudioCode&logoColor=white&labelColor=082f49)](https://code.visualstudio.com/)
 
 ### Languages
-[![C#](https://img.shields.io/badge/CSharp-0c4a6e?style=for-the-badge&logo=CSharp&logoColor=white&labelColor=082f49)](https://learn.microsoft.com/en-us/dotnet/csharp/)
+[![C#](https://img.shields.io/badge/CSharp-0c4a6e?style=for-the-badge&logo=.net&logoColor=white&labelColor=082f49)](https://learn.microsoft.com/en-us/dotnet/csharp/)
 [![F#](https://img.shields.io/badge/FSharp-0c4a6e?style=for-the-badge&logo=FSharp&logoColor=white&labelColor=082f49)](https://learn.microsoft.com/en-us/dotnet/fsharp/)
 [![Lua](https://img.shields.io/badge/Lua-0c4a6e?style=for-the-badge&logo=Lua&logoColor=white&labelColor=082f49)](https://www.lua.org/docs.html)
 [![JavaScript](https://img.shields.io/badge/JavaScript-0c4a6e?style=for-the-badge&logo=JavaScript&logoColor=white&labelColor=082f49)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)

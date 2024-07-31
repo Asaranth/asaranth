@@ -3,8 +3,6 @@ I'm a versatile developer proficient in several programming languages, framework
 
 ### Tools
 [![JetBrains](https://img.shields.io/badge/JetBrains_Suite-0c4a6e?style=for-the-badge&logo=JetBrains&logoColor=white&labelColor=082f49)](https://www.jetbrains.com/)
-[![Visual Studio](https://img.shields.io/badge/Visual_Studio-0c4a6e?style=for-the-badge&logo=VisualStudio&logoColor=white&labelColor=082f49)](https://visualstudio.microsoft.com/)
-[![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0c4a6e?style=for-the-badge&logo=VisualStudioCode&logoColor=white&labelColor=082f49)](https://code.visualstudio.com/)
 
 ### Languages
 [![C#](https://img.shields.io/badge/CSharp-0c4a6e?style=for-the-badge&logo=.net&logoColor=white&labelColor=082f49)](https://learn.microsoft.com/en-us/dotnet/csharp/)

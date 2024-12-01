@@ -10,8 +10,8 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-2B7489?style=for-the-badge&logo=TypeScript&logoColor=white&labelColor=0B2E46)](https://www.typescriptlang.org/docs/)
 [![Python](https://img.shields.io/badge/Python-3572A5?style=for-the-badge&logo=Python&logoColor=white&labelColor=123567)](https://docs.python.org/3/)
 [![R](https://img.shields.io/badge/R-198CE7?style=for-the-badge&logo=R&logoColor=white&labelColor=185581)](https://www.r-project.org/other-docs.html)
-[![HTML](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=HTML5&logoColor=white&labelColor=822512)](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
-[![CSS](https://img.shields.io/badge/CSS3-563D7C?style=for-the-badge&logo=CSS3&logoColor=white&labelColor=2D265E)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![HTML](https://img.shields.io/badge/HTML-E34C26?style=for-the-badge&logo=HTML5&logoColor=white&labelColor=822512)](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
+[![CSS](https://img.shields.io/badge/CSS-563D7C?style=for-the-badge&logo=CSS3&logoColor=white&labelColor=2D265E)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white&labelColor=1E3F53)](https://dev.mysql.com/doc/)
 
 ### Frameworks

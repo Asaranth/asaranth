@@ -10,10 +10,10 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-2B7489?style=for-the-badge&logo=TypeScript&logoColor=white&labelColor=0B2E46)](https://www.typescriptlang.org/docs/)
 [![Python](https://img.shields.io/badge/Python-3572A5?style=for-the-badge&logo=Python&logoColor=white&labelColor=123567)](https://docs.python.org/3/)
 [![R](https://img.shields.io/badge/R-198CE7?style=for-the-badge&logo=R&logoColor=white&labelColor=185581)](https://www.r-project.org/other-docs.html)
+[![Rust](https://img.shields.io/badge/Rust-dea584?style=for-the-badge&logo=Rust&logoColor=white&labelColor=b47a5b)](https://doc.rust-lang.org/)
 [![HTML](https://img.shields.io/badge/HTML-E34C26?style=for-the-badge&logo=HTML5&logoColor=white&labelColor=822512)](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
 [![CSS](https://img.shields.io/badge/CSS-563D7C?style=for-the-badge&logo=CSS3&logoColor=white&labelColor=2D265E)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white&labelColor=1E3F53)](https://dev.mysql.com/doc/)
-[![Rust](https://img.shields.io/badge/Rust-b7410e?style=for-the-badge&logo=Rust&logoColor=white&labelColor=802f0c)](https://doc.rust-lang.org/)
 
 ### Frameworks
 [![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.NET&logoColor=white&labelColor=220B78)](https://dotnet.microsoft.com/en-us/)

@@ -12,7 +12,7 @@
 [![R](https://img.shields.io/badge/R-198CE7?style=for-the-badge&logo=R&logoColor=white&labelColor=2b2b2b)](https://www.r-project.org/other-docs.html)
 [![Rust](https://img.shields.io/badge/Rust-dea584?style=for-the-badge&logo=Rust&logoColor=white&labelColor=2b2b2b)](https://doc.rust-lang.org/)
 [![HTML](https://img.shields.io/badge/HTML-E34C26?style=for-the-badge&logo=HTML5&logoColor=white&labelColor=2b2b2b)](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
-[![CSS](https://img.shields.io/badge/CSS-563D7C?style=for-the-badge&logo=CSS3&logoColor=white&labelColor=2b2b2b)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![CSS](https://img.shields.io/badge/CSS-563D7C?style=for-the-badge&logo=CSS&logoColor=white&labelColor=2b2b2b)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white&labelColor=2b2b2b)](https://dev.mysql.com/doc/)
 
 ### Frameworks

@@ -6,6 +6,7 @@
 [![F#](https://img.shields.io/badge/F%23-b845fc?style=for-the-badge&logo=FSharp&logoColor=white&labelColor=2b2b2b)](https://learn.microsoft.com/en-us/dotnet/fsharp/)
 [![Dart](https://img.shields.io/badge/Dart-00B4AB?style=for-the-badge&logo=Dart&logoColor=white&labelColor=2b2b2b)](https://dart.dev/guides)
 [![Lua](https://img.shields.io/badge/Lua-000080?style=for-the-badge&logo=Lua&logoColor=white&labelColor=2b2b2b)](https://www.lua.org/docs.html)
+[![PHP](https://img.shields.io/badge/PHP-8892BF?style=for-the-badge&logo=PHP&logoColor=white&labelColor=2b2b2b)](https://www.php.net/docs.php)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F1E05A?style=for-the-badge&logo=JavaScript&logoColor=white&labelColor=2b2b2b)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![TypeScript](https://img.shields.io/badge/TypeScript-2B7489?style=for-the-badge&logo=TypeScript&logoColor=white&labelColor=2b2b2b)](https://www.typescriptlang.org/docs/)
 [![Python](https://img.shields.io/badge/Python-3572A5?style=for-the-badge&logo=Python&logoColor=white&labelColor=2b2b2b)](https://docs.python.org/3/)

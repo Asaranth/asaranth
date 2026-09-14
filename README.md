@@ -17,8 +17,6 @@
 [![Rust](https://img.shields.io/badge/Rust-dea584?style=for-the-badge&logo=rust&logoColor=white&labelColor=2b2b2b)](https://doc.rust-lang.org/)
 [![HTML](https://img.shields.io/badge/HTML-e34c26?style=for-the-badge&logo=html5&logoColor=white&labelColor=2b2b2b)](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
 [![CSS](https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white&labelColor=2b2b2b)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![Svelte](https://img.shields.io/badge/Svelte-ff3e00?style=for-the-badge&logo=svelte&logoColor=white&labelColor=2b2b2b)](https://svelte.dev/)
-[![Astro](https://img.shields.io/badge/Astro-ff5a03?style=for-the-badge&logo=astro&logoColor=white&labelColor=2b2b2b)](https://astro.build/)
 <!-- LANGUAGES:END -->
 
 ### Frameworks

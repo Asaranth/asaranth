@@ -50,7 +50,6 @@ def find_language(name, linguist):
 
     return None
 
-
 def build_badge(language, colour, badge_config):
     name = language["name"]
     logo = language["logo"]
@@ -63,11 +62,16 @@ def build_badge(language, colour, badge_config):
     badge_label = name.replace("#", "%23")
     badge_message = colour.lstrip("#")
 
+    if logo.startswith("data:image/"):
+        logo_parameter = logo
+    else:
+        logo_parameter = quote(logo)
+
     badge_url = (
         f"https://img.shields.io/badge/"
         f"{badge_label}-{badge_message}"
         f"?style={quote(style)}"
-        f"&logo={quote(logo)}"
+        f"&logo={logo_parameter}"
         f"&logoColor={quote(logo_colour)}"
         f"&labelColor={quote(label_colour)}"
     )

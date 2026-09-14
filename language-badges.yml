@@ -1,19 +1,46 @@
 languages:
 
-* C#
-* F#
-* Dart
-* Lua
-* PHP
-* JavaScript
-* TypeScript
-* Python
-* R
-* Rust
-* HTML
-* CSS
-* Svelte
-* Astro
+* name: C#
+  logo: csharp
+
+* name: F#
+  logo: fsharp
+
+* name: Dart
+  logo: dart
+
+* name: Lua
+  logo: lua
+
+* name: PHP
+  logo: php
+
+* name: JavaScript
+  logo: javascript
+
+* name: TypeScript
+  logo: typescript
+
+* name: Python
+  logo: python
+
+* name: R
+  logo: r
+
+* name: Rust
+  logo: rust
+
+* name: HTML
+  logo: html5
+
+* name: CSS
+  logo: css
+
+* name: Svelte
+  logo: svelte
+
+* name: Astro
+  logo: astro
 
 badge:
 style: for-the-badge

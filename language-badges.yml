@@ -47,14 +47,6 @@ languages:
     logo: css
     url: https://developer.mozilla.org/en-US/docs/Web/CSS
 
-  - name: Svelte
-    logo: svelte
-    url: https://svelte.dev/
-
-  - name: Astro
-    logo: astro
-    url: https://astro.build/
-
 badge:
   style: for-the-badge
   logoColor: white

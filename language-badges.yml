@@ -1,0 +1,21 @@
+languages:
+
+* C#
+* F#
+* Dart
+* Lua
+* PHP
+* JavaScript
+* TypeScript
+* Python
+* R
+* Rust
+* HTML
+* CSS
+* Svelte
+* Astro
+
+badge:
+style: for-the-badge
+logoColor: white
+labelColor: "2b2b2b"

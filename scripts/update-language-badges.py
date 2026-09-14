@@ -24,22 +24,22 @@ print("Downloading current GitHub Linguist language definitions...")
 ```
 request = urllib.request.Request(
     LINGUIST_URL,
-    headers={"User-Agent": "GitHub-Language-Badge-Updater"},
+    headers={
+        "User-Agent": "GitHub-Language-Badge-Updater"
+    },
 )
 
 with urllib.request.urlopen(request) as response:
-    data = response.read().decode("utf-8")
-
-return yaml.safe_load(data)
+    return yaml.safe_load(
+        response.read().decode("utf-8")
+    )
 ```
 
 def find_language(name, linguist):
-# Direct match first.
 if name in linguist:
 return linguist[name]
 
 ```
-# Fall back to aliases.
 name_lower = name.lower()
 
 for language, data in linguist.items():
@@ -61,14 +61,17 @@ style = badge_config["style"]
 logo_colour = badge_config["logoColor"]
 label_colour = badge_config["labelColor"]
 
-# Shields.io uses the first dash-separated component as the label.
-# URL-encode the language name so characters such as # are handled safely.
-encoded_name = quote(name, safe="")
+# Shields badge endpoint:
+# /badge/{label}-{message}
+#
+# Replace # because it has special meaning in a URL.
+badge_label = name.replace("#", "%23")
+badge_message = colour.lstrip("#")
 
 badge_url = (
     f"https://img.shields.io/badge/"
-    f"{encoded_name}-{colour.lstrip('#')}?"
-    f"style={quote(style)}"
+    f"{badge_label}-{badge_message}"
+    f"?style={quote(style)}"
     f"&logo={quote(logo)}"
     f"&logoColor={quote(logo_colour)}"
     f"&labelColor={quote(label_colour)}"
@@ -128,14 +131,21 @@ replacement = (
     f"{END_MARKER}"
 )
 
-updated, count = pattern.subn(replacement, content)
+updated, count = pattern.subn(
+    replacement,
+    content,
+)
 
 if count != 1:
     raise RuntimeError(
-        "Expected exactly one language badge section in README.md."
+        "Expected exactly one language badge section "
+        "in README.md."
     )
 
-README.write_text(updated, encoding="utf-8")
+README.write_text(
+    updated,
+    encoding="utf-8",
+)
 ```
 
 def main():

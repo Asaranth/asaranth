@@ -2,45 +2,59 @@ languages:
 
 * name: C#
   logo: csharp
+  url: https://learn.microsoft.com/en-us/dotnet/csharp/
 
 * name: F#
   logo: fsharp
+  url: https://learn.microsoft.com/en-us/dotnet/fsharp/
 
 * name: Dart
   logo: dart
+  url: https://dart.dev/guides
 
 * name: Lua
   logo: lua
+  url: https://www.lua.org/docs.html
 
 * name: PHP
   logo: php
+  url: https://www.php.net/docs.php
 
 * name: JavaScript
   logo: javascript
+  url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 
 * name: TypeScript
   logo: typescript
+  url: https://www.typescriptlang.org/docs/
 
 * name: Python
   logo: python
+  url: https://docs.python.org/3/
 
 * name: R
   logo: r
+  url: https://www.r-project.org/other-docs.html
 
 * name: Rust
   logo: rust
+  url: https://doc.rust-lang.org/
 
 * name: HTML
   logo: html5
+  url: https://developer.mozilla.org/en-US/docs/Glossary/HTML5
 
 * name: CSS
   logo: css
+  url: https://developer.mozilla.org/en-US/docs/Web/CSS
 
 * name: Svelte
   logo: svelte
+  url: https://svelte.dev/
 
 * name: Astro
   logo: astro
+  url: https://astro.build/
 
 badge:
 style: for-the-badge

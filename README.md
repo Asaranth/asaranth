@@ -5,6 +5,20 @@
 ### Languages
 
 <!-- LANGUAGES:START -->
+[![C#](https://img.shields.io/badge/C%23-7355dd?style=for-the-badge&logo=csharp&logoColor=white&labelColor=2b2b2b)](https://learn.microsoft.com/en-us/dotnet/csharp/)
+[![F#](https://img.shields.io/badge/F%23-b845fc?style=for-the-badge&logo=fsharp&logoColor=white&labelColor=2b2b2b)](https://learn.microsoft.com/en-us/dotnet/fsharp/)
+[![Dart](https://img.shields.io/badge/Dart-00B4AB?style=for-the-badge&logo=dart&logoColor=white&labelColor=2b2b2b)](https://dart.dev/guides)
+[![Lua](https://img.shields.io/badge/Lua-000080?style=for-the-badge&logo=lua&logoColor=white&labelColor=2b2b2b)](https://www.lua.org/docs.html)
+[![PHP](https://img.shields.io/badge/PHP-4F5D95?style=for-the-badge&logo=php&logoColor=white&labelColor=2b2b2b)](https://www.php.net/docs.php)
+[![JavaScript](https://img.shields.io/badge/JavaScript-f1e05a?style=for-the-badge&logo=javascript&logoColor=white&labelColor=2b2b2b)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=2b2b2b)](https://www.typescriptlang.org/docs/)
+[![Python](https://img.shields.io/badge/Python-3572A5?style=for-the-badge&logo=python&logoColor=white&labelColor=2b2b2b)](https://docs.python.org/3/)
+[![R](https://img.shields.io/badge/R-198CE7?style=for-the-badge&logo=r&logoColor=white&labelColor=2b2b2b)](https://www.r-project.org/other-docs.html)
+[![Rust](https://img.shields.io/badge/Rust-dea584?style=for-the-badge&logo=rust&logoColor=white&labelColor=2b2b2b)](https://doc.rust-lang.org/)
+[![HTML](https://img.shields.io/badge/HTML-e34c26?style=for-the-badge&logo=html5&logoColor=white&labelColor=2b2b2b)](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
+[![CSS](https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white&labelColor=2b2b2b)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![Svelte](https://img.shields.io/badge/Svelte-ff3e00?style=for-the-badge&logo=svelte&logoColor=white&labelColor=2b2b2b)](https://svelte.dev/)
+[![Astro](https://img.shields.io/badge/Astro-ff5a03?style=for-the-badge&logo=astro&logoColor=white&labelColor=2b2b2b)](https://astro.build/)
 <!-- LANGUAGES:END -->
 
 ### Frameworks

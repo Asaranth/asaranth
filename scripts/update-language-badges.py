@@ -3,6 +3,7 @@
 import re
 import urllib.request
 from pathlib import Path
+from urllib.parse import quote
 
 import yaml
 
@@ -21,37 +22,24 @@ def load_linguist():
 print("Downloading current GitHub Linguist language definitions...")
 
 ```
-with urllib.request.urlopen(LINGUIST_URL) as response:
+request = urllib.request.Request(
+    LINGUIST_URL,
+    headers={"User-Agent": "GitHub-Language-Badge-Updater"},
+)
+
+with urllib.request.urlopen(request) as response:
     data = response.read().decode("utf-8")
 
 return yaml.safe_load(data)
 ```
 
-def badge_url(name, colour, config):
-style = config["badge"]["style"]
-logo_colour = config["badge"]["logoColor"]
-label_colour = config["badge"]["labelColor"]
-
-```
-label = name.replace("-", "--").replace(" ", "_")
-encoded_name = name.replace("#", "%23")
-
-return (
-    f"https://img.shields.io/badge/"
-    f"{encoded_name}-{colour.lstrip('#')}?"
-    f"style={style}"
-    f"&logo={name}"
-    f"&logoColor={logo_colour}"
-    f"&labelColor={label_colour}"
-)
-```
-
 def find_language(name, linguist):
+# Direct match first.
 if name in linguist:
 return linguist[name]
 
 ```
-# Try aliases as a fallback.
+# Fall back to aliases.
 name_lower = name.lower()
 
 for language, data in linguist.items():
@@ -63,29 +51,62 @@ for language, data in linguist.items():
 return None
 ```
 
+def build_badge(language, colour, badge_config):
+name = language["name"]
+logo = language["logo"]
+url = language["url"]
+
+```
+style = badge_config["style"]
+logo_colour = badge_config["logoColor"]
+label_colour = badge_config["labelColor"]
+
+# Shields.io uses the first dash-separated component as the label.
+# URL-encode the language name so characters such as # are handled safely.
+encoded_name = quote(name, safe="")
+
+badge_url = (
+    f"https://img.shields.io/badge/"
+    f"{encoded_name}-{colour.lstrip('#')}?"
+    f"style={quote(style)}"
+    f"&logo={quote(logo)}"
+    f"&logoColor={quote(logo_colour)}"
+    f"&labelColor={quote(label_colour)}"
+)
+
+return f"[![{name}]({badge_url})]({url})"
+```
+
 def build_badges(config, linguist):
 badges = []
 
 ```
-for name in config["languages"]:
-    language = find_language(name, linguist)
+for language in config["languages"]:
+    name = language["name"]
 
-    if language is None:
-        raise RuntimeError(f"'{name}' was not found in GitHub Linguist.")
+    definition = find_language(name, linguist)
 
-    colour = language.get("color")
+    if definition is None:
+        raise RuntimeError(
+            f"'{name}' was not found in GitHub Linguist."
+        )
+
+    colour = definition.get("color")
 
     if not colour:
-        raise RuntimeError(f"'{name}' exists in GitHub Linguist but has no colour.")
-
-    url = badge_url(name, colour, config)
-
-    badges.append(
-        f"[![{name}]({url})](https://github.com/search?q=language%3A"
-        f"{name.replace('#', '%23')}&type=repositories)"
-    )
+        raise RuntimeError(
+            f"'{name}' exists in GitHub Linguist but has no colour."
+        )
 
     print(f"{name}: {colour}")
+
+    badges.append(
+        build_badge(
+            language,
+            colour,
+            config["badge"],
+        )
+    )
 
 return "\n".join(badges)
 ```
@@ -110,15 +131,34 @@ replacement = (
 updated, count = pattern.subn(replacement, content)
 
 if count != 1:
-    raise RuntimeError("Expected exactly one language badge section in README.md.")
+    raise RuntimeError(
+        "Expected exactly one language badge section in README.md."
+    )
 
 README.write_text(updated, encoding="utf-8")
 ```
 
 def main():
-config = yaml.safe_load(CONFIG.read_text(encoding="utf-8"))
+if not CONFIG.exists():
+raise RuntimeError(
+f"Configuration file not found: {CONFIG}"
+)
 
 ```
+if not README.exists():
+    raise RuntimeError(
+        f"README file not found: {README}"
+    )
+
+config = yaml.safe_load(
+    CONFIG.read_text(encoding="utf-8")
+)
+
+if not config.get("languages"):
+    raise RuntimeError(
+        "No languages configured in language-badges.yml."
+    )
+
 linguist = load_linguist()
 badges = build_badges(config, linguist)
 update_readme(badges)
